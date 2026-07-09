@@ -1,5 +1,5 @@
 # Multi-robot-multi-task scheduling module
-
+ortool改版求解器复现内容见simulation_methods文件夹，讲解见ORTOOLS_REPRODUCTION_LOG.md
 ## Directory tree
 > + hello_world_example
 >   + A simple example with the minimum number of workstations and the shortest task length.

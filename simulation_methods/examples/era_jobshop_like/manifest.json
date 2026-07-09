@@ -1,0 +1,116 @@
+[
+  {
+    "file": "mbjssp_01_2tasks_tight.json",
+    "tasks": 2,
+    "steps": 11,
+    "capacity_profile": {
+      "starting_station": 20,
+      "liquid_dispensing": 1,
+      "solid_dispensing": 1,
+      "magnetic_stirring": 2,
+      "new_centrifugation": 2,
+      "new_centrifugation_screen": 2,
+      "dryer_workstation": 2,
+      "dryer_workstation_1": 2,
+      "imbibition_workstation": 2,
+      "fluorescence": 1,
+      "high_flux_xrd_workstation": 1,
+      "high_flux_electrocatalysis_workstation": 2
+    }
+  },
+  {
+    "file": "mbjssp_02_3tasks_tight.json",
+    "tasks": 3,
+    "steps": 23,
+    "capacity_profile": {
+      "starting_station": 20,
+      "liquid_dispensing": 1,
+      "solid_dispensing": 1,
+      "magnetic_stirring": 2,
+      "new_centrifugation": 2,
+      "new_centrifugation_screen": 2,
+      "dryer_workstation": 2,
+      "dryer_workstation_1": 2,
+      "imbibition_workstation": 2,
+      "fluorescence": 1,
+      "high_flux_xrd_workstation": 1,
+      "high_flux_electrocatalysis_workstation": 2
+    }
+  },
+  {
+    "file": "mbjssp_03_4tasks_tight.json",
+    "tasks": 4,
+    "steps": 46,
+    "capacity_profile": {
+      "starting_station": 20,
+      "liquid_dispensing": 1,
+      "solid_dispensing": 1,
+      "magnetic_stirring": 2,
+      "new_centrifugation": 2,
+      "new_centrifugation_screen": 2,
+      "dryer_workstation": 2,
+      "dryer_workstation_1": 2,
+      "imbibition_workstation": 2,
+      "fluorescence": 1,
+      "high_flux_xrd_workstation": 1,
+      "high_flux_electrocatalysis_workstation": 2
+    }
+  },
+  {
+    "file": "mbjssp_04_4tasks_base.json",
+    "tasks": 4,
+    "steps": 46,
+    "capacity_profile": {
+      "starting_station": 40,
+      "liquid_dispensing": 1,
+      "solid_dispensing": 1,
+      "magnetic_stirring": 4,
+      "new_centrifugation": 4,
+      "new_centrifugation_screen": 4,
+      "dryer_workstation": 4,
+      "dryer_workstation_1": 4,
+      "imbibition_workstation": 4,
+      "fluorescence": 2,
+      "high_flux_xrd_workstation": 1,
+      "high_flux_electrocatalysis_workstation": 3
+    }
+  },
+  {
+    "file": "mbjssp_05_4tasks_parallel.json",
+    "tasks": 4,
+    "steps": 46,
+    "capacity_profile": {
+      "starting_station": 80,
+      "liquid_dispensing": 3,
+      "solid_dispensing": 2,
+      "magnetic_stirring": 8,
+      "new_centrifugation": 8,
+      "new_centrifugation_screen": 8,
+      "dryer_workstation": 8,
+      "dryer_workstation_1": 8,
+      "imbibition_workstation": 8,
+      "fluorescence": 4,
+      "high_flux_xrd_workstation": 2,
+      "high_flux_electrocatalysis_workstation": 5
+    }
+  },
+  {
+    "file": "mbjssp_06_8tasks_stress_tight.json",
+    "tasks": 8,
+    "steps": 92,
+    "capacity_profile": {
+      "starting_station": 20,
+      "liquid_dispensing": 1,
+      "solid_dispensing": 1,
+      "magnetic_stirring": 2,
+      "new_centrifugation": 2,
+      "new_centrifugation_screen": 2,
+      "dryer_workstation": 2,
+      "dryer_workstation_1": 2,
+      "imbibition_workstation": 2,
+      "fluorescence": 1,
+      "high_flux_xrd_workstation": 1,
+      "high_flux_electrocatalysis_workstation": 2
+    }
+  }
+]
